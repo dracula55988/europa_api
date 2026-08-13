@@ -1,0 +1,24 @@
+[
+{
+    "number": 1,
+    "name": "Europa-RolePlay",
+    "ip": "194.147.32.5",
+    "port": 7777,
+    "online": 0,
+    "queue": 0,
+    "maxplayers": 1000,
+    "password": false,
+    "plotPoints": [],
+    "tg": "https://t.me/samp_europa",
+    "vk": "",
+    "inst": "https://instagram.com/samp_europa",
+    "icon": "",
+    "additionalIps": [
+        "194.147.32.5"
+    ],
+    "recomend": true,
+    "donateMultiplier": 1,
+    "experienceMultiplier": 0
+}
+
+]
