@@ -106,13 +106,11 @@
                 "time": 1754886841
             }
         ],
-        "tg": "https://t.me/arizona_rpcom",
+        "tg": "https://t.me/samp_europa",
         "vk": "https://vk.com/prescottazrp",
-        "inst": "https://instagram.com/arizonagames_",
-        "icon": "https://cdn.azresources.cloud/projects/arizona-rp/assets/images/project_icons/11.webp",
-        "additionalIps": [
-            "194.147.32.5"
-        ],
+        "inst": "https://www.instagram.com/samp_europa?stkn=YzQ5cmhoamp1eml5",
+        "icon": "https://europa-api.vercel.app/public/projects/arizona-rp/assets/images/project-icons/12.png",
+        "additionalIps": [ "194.147.32.5"],
         "recomend": true,
         "donateMultiplier": 3,
         "experienceMultiplier": 0
