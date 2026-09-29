@@ -1,1 +1,121 @@
-{}
+[
+    {
+        "number": 1,
+        "name": "Europa Roleplay",
+        "ip": "194.147.32.5",
+        "port": 7777,
+        "online": 250,
+        "queue": 0,
+        "maxplayers": 1000,
+        "password": false,
+        "plotPoints": [
+            {
+                "online": 1000,
+                "time": 1754803921
+            },
+            {
+                "online": 1000,
+                "time": 1754807521
+            },
+            {
+                "online": 1000,
+                "time": 1754811122
+            },
+            {
+                "online": 1000,
+                "time": 1754814781
+            },
+            {
+                "online": 1000,
+                "time": 1754818381
+            },
+            {
+                "online": 1000,
+                "time": 1754821981
+            },
+            {
+                "online": 1000,
+                "time": 1754825581
+            },
+            {
+                "online": 1000,
+                "time": 1754829181
+            },
+            {
+                "online": 1000,
+                "time": 1754832781
+            },
+            {
+                "online": 1000,
+                "time": 1754836382
+            },
+            {
+                "online": 1000,
+                "time": 1754840041
+            },
+            {
+                "online": 1000,
+                "time": 1754843641
+            },
+            {
+                "online": 1000,
+                "time": 1754847241
+            },
+            {
+                "online": 1000,
+                "time": 1754850841
+            },
+            {
+                "online": 1000,
+                "time": 1754854441
+            },
+            {
+                "online": 1000,
+                "time": 1754858041
+            },
+            {
+                "online": 1000,
+                "time": 1754861641
+            },
+            {
+                "online": 1000,
+                "time": 1754865241
+            },
+            {
+                "online": 1000,
+                "time": 1754868841
+            },
+            {
+                "online": 1000,
+                "time": 1754872441
+            },
+            {
+                "online": 1000,
+                "time": 1754876041
+            },
+            {
+                "online": 1000,
+                "time": 1754879641
+            },
+            {
+                "online": 1000,
+                "time": 1754883241
+            },
+            {
+                "online": 1000,
+                "time": 1754886841
+            }
+        ],
+        "tg": "https://t.me/arizona_rpcom",
+        "vk": "https://vk.com/prescottazrp",
+        "inst": "https://instagram.com/arizonagames_",
+        "icon": "https://cdn.azresources.cloud/projects/arizona-rp/assets/images/project_icons/11.webp",
+        "additionalIps": [
+            "194.147.32.5"
+        ],
+        "recomend": true,
+        "donateMultiplier": 3,
+        "experienceMultiplier": 0
+    }
+    
+]
