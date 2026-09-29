@@ -8,6 +8,7 @@
   "routes": [
     { "src": "/launcher/servers/vc", "dest": "/launcher/servers/vc.js" },
     { "src": "/launcher/servers/arizonaMobile" , "dest" : "/launcher/servers/arizonaMobile.js" },
-    { "src": "/launcher/servers/arizona" , "dest" : "/launcher/servers/arizona.js" }
-  ]
+    { "src": "/launcher/servers/arizona" , "dest" : "/launcher/servers/arizona.js" },
+    { "src": "/public/projects/(.*)" , "dest": "/public/projects/$1"  }
+     ]
 }
