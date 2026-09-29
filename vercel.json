@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/launcher/servers/vc.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/launcher/servers/vc", "dest": "/api/launcher/servers/vc.js" }
+  ]
+}
