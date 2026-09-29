@@ -4,6 +4,8 @@
     { "src": "/launcher/servers/vc.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/launcher/servers/vc", "dest": "/api/launcher/servers/vc.js" }
+    { "src": "/launcher/servers/vc", "dest": "/api/launcher/servers/vc.json" }
+    { "src": "/launcher/servers/arizonaMobile" , "dest" : "/launcher/servers/arizonaMobile.json" }
+    { "src": "/launcher/servers/arizona" , "dest" : "/launcher/servers/arizona.json" }
   ]
 }
