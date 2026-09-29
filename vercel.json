@@ -1,7 +1,9 @@
 {
   "version": 2,
   "builds": [
-    { "src": "/launcher/servers/vc.js", "use": "@vercel/node" }
+    { "src": "/launcher/servers/vc.js", "use": "@vercel/node" },
+    { "src": "/launcher/servers/arizona.js", "use": "@vercel/node" },
+    { "src": "/launcher/servers/arizonaMobile.js", "use": "@vercel/node" }
   ],
   "routes": [
     { "src": "/launcher/servers/vc", "dest": "/api/launcher/servers/vc.js" },
