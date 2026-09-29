@@ -3,14 +3,14 @@ const path = require('path');
 
 export default function handler(req, res) {
   try {
-    // This reads the vc.json file from your root folder
-    const filePath = path.join(process.cwd(), 'arizona.json');
+    // __dirname points to api/launcher/servers/
+    const filePath = path.join(__dirname, 'arizona.json');
     const rawData = fs.readFileSync(filePath, 'utf8');
     const jsonData = JSON.parse(rawData);
 
     res.setHeader('Content-Type', 'application/json');
     return res.status(200).json(jsonData);
   } catch (err) {
-    return res.status(500).json({ error: "Failed to load JSON data" });
+    return res.status(500).json({ error: "Failed to load JSON data: " + err.message });
   }
 }
