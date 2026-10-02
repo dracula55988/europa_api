@@ -1,14 +1,14 @@
 [
   {
-    "title": "Welcome!",
-    "imageUrl": "https://your-project.vercel.app/images/news1.jpg",
-    "url": "https://your-project.vercel.app/news/welcome",
+    "title": "EU-RP Mobile x64 Released!",
+    "imageUrl": "https://europa-api.vercel.app/public/images/news1.png",
+    "url": "https://discord.com/channels/771464412460089404/1378243351853269022",
     "date": "2026-10-03"
   },
   {
-    "title": "Server Update",
-    "imageUrl": "https://your-project.vercel.app/images/news2.jpg",
-    "url": "https://your-project.vercel.app/news/update",
-    "date": "2026-10-02"
+    "title": "Treasury Mission Update",
+    "imageUrl": "https://europa-api.vercel.app/public/images/news2.png",
+    "url": "https://discord.com/channels/771464412460089404/1378121646648328262/1553743121547006025",
+    "date": "2026-09-27"
   }
 ]
