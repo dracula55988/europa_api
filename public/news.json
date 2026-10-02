@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Welcome!",
+    "imageUrl": "https://your-project.vercel.app/images/news1.jpg",
+    "url": "https://your-project.vercel.app/news/welcome",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Server Update",
+    "imageUrl": "https://your-project.vercel.app/images/news2.jpg",
+    "url": "https://your-project.vercel.app/news/update",
+    "date": "2026-10-02"
+  }
+]
