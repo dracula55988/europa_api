@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Welcome to my launcher!",
+    "imageUrl": "https://your-domain.com/news/welcome.jpg",
+    "url": "https://your-domain.com/news/welcome",
+    "date": "2026-10-03"
+  },
+  {
+    "title": "Server Update",
+    "imageUrl": "https://your-domain.com/news/update.jpg",
+    "url": "https://your-domain.com/news/update",
+    "date": "2026-10-02"
+  }
+]
