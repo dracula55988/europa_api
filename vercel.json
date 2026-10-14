@@ -4,12 +4,14 @@
     { "src": "/launcher/servers/vc.js", "use": "@vercel/node" },
     { "src": "/launcher/servers/arizona.js", "use": "@vercel/node" },
     { "src": "/launcher/servers/arizonaMobile.js", "use": "@vercel/node" },
-       { "src": "public/**", "use": "@vercel/static" }
+       { "src": "public/**", "use": "@vercel/static" },
+    { "src": "assets/**", "use": "@vercel/static" }
   ],
   "routes": [
     { "src": "/launcher/servers/vc", "dest": "/launcher/servers/vc.js" },
     { "src": "/launcher/servers/arizonaMobile" , "dest" : "/launcher/servers/arizonaMobile.js" },
     { "src": "/launcher/servers/arizona" , "dest" : "/launcher/servers/arizona.js" },
-    { "src": "/public/projects/(.*)" , "dest": "/public/projects/$1"  }
+    { "src": "/public/projects/(.*)" , "dest": "/public/projects/$1"  },
+    { "src": "/assets/images/(.*)" , "dest": "/assets/images/$1"  }
      ]
 }
